@@ -1,0 +1,87 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+
+.menu h1{
+    margin: 10px;
+    padding: 15px;
+    text-align: center;
+    background-color: rgb(23, 22, 32);
+    font-family: 'Russo One', sans-serif;
+    color: white;
+}
+
+.menutext{
+    font-size: 30px;
+}
+
+.introque{
+    font-family: 'Russo One', sans-serif;
+    color: rgb(23, 22, 32);
+    text-align: center;
+}
+
+.introans{
+    font-family: 'Rubik', sans-serif;
+
+    text-align: center;
+}
+
+.spaceimage{
+    text-align: center;
+    margin: 20px;
+}
+
+.listintroque{
+    text-align: center;
+    font-family: 'Russo One', sans-serif;
+}
+
+.listintroans{
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+}
+
+.isthatspaceque{
+    text-align: center;
+    font-family: 'Russo One', sans-serif;
+}
+
+.isthatspaceans{
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+}
+
+.whyisspacedarkque{
+    text-align: center;
+    font-family: 'Russo One', sans-serif;
+}
+
+.whyisspacedarkans{
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+}
+.wheredoesspacebegingque{
+    text-align: center;
+    font-family: 'Russo One', sans-serif;
+}
+
+.wheredoesspacebegingans{
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+}
+
+.stargazersque{
+    text-align: center;
+    font-family: 'Russo One', sans-serif;
+}
+
+.stargazersans{
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+}
+.nicolausimage{
+    text-align: center;
+    margin: 20px;
+}
